@@ -2272,9 +2272,10 @@
 			width: 100%;
 		}
 
-			.image.fit img {
-				width: 100%;
-			}
+		.image.fit img {
+			width: 100%;
+			padding: 30px 0px 0px 0px;
+		}
 
 		.image.main {
 			display: block;
