@@ -62,5 +62,7 @@
 					.css('transition', 'none');
 
 	});
+			
+
 
 })(jQuery);
